@@ -8,7 +8,7 @@
 
 5. git clone https://github.com/cpmgala/CpmGala-cpmgala.git
 
-6. cd cpmewan
+6. cd cpmgala
 
 7. git pull
 
