@@ -8,16 +8,16 @@
 
 5. git clone https://github.com/cpmgala/CpmGala-cpmgala.git
 
-6. cd cpmgala
+6. cd CpmGala-cpmgala
 
-7. git pull
+8. git pull
 
-8. python3 -m pip install requests
+9. python3 -m pip install requests
 
-9. pkg i python-numpy
+10. pkg i python-numpy
 
-10. pip install rich --upgrade
+11. pip install rich --upgrade
 
-11. pip install -r requirements.txt
+12. pip install -r requirements.txt
 
-12. python main.py
+13. python main.py
